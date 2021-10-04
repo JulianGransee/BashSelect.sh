@@ -5,14 +5,13 @@
 To select an option you just have to press `ENTER`
 
 
-``
 [![](https://raw.githubusercontent.com/GermanJag/BashSelect.sh/main/options.gif)](https://github.com/GermanJag/BashSelect.sh)
 
 ---
 
 ### Usage
 
-#### basic usage
+#### Basic usage
 1. Copy the script to your code or sourcing it
  ```bash
     source select.sh

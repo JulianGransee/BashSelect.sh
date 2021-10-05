@@ -14,7 +14,7 @@ To select an option you just have to press `ENTER`
 #### Basic usage
 1. Copy the script to your code or sourcing it
  ```bash
-    source select.sh
+    source BashSelect.sh
  ```
  2. Export your options
  ```bash

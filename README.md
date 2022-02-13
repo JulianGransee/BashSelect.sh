@@ -43,7 +43,7 @@ printf 'Use the arrow keys to navigate, press enter to select:\n' #a short expla
 
 while true; do
 
-bash bashSelect #run the selector
+bashSelect #run the selector
 
 case $? in #run the corresponding
      0 )

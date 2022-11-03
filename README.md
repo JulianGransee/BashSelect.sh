@@ -5,7 +5,7 @@
 To select an option you just have to press `ENTER`
 
 
-[![](https://raw.githubusercontent.com/GermanJag/BashSelect.sh/main/options.gif)](https://github.com/GermanJag/BashSelect.sh)
+[![](https://raw.githubusercontent.com/JulianGransee/BashSelect.sh/main/options.gif)](https://github.com/GermanJag/BashSelect.sh)
 
 ---
 
@@ -35,7 +35,7 @@ To select an option you just have to press `ENTER`
 ```bash
 #!/bin/bash
 
-source <(curl -s https://raw.githubusercontent.com/GermanJag/BashSelect.sh/main/BashSelect.sh) #sourcing the script so you can use the function "bashSelect" afterwards
+source <(curl -s https://raw.githubusercontent.com/JulianGransee/BashSelect.sh/main/BashSelect.sh) #sourcing the script so you can use the function "bashSelect" afterwards
 
 export OPTIONS=("say hello" "say bye" "exit") #set the different options
 
